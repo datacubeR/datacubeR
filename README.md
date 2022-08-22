@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing **my Msc in Data Science**.
 
-- 👨‍💻 All of my projects are available at [datacuber.cl](datacuber.cl).
+- 👨‍💻 All of my projects are available at [datacuber.cl](https://datacuber.cl/).
 
 - ⚡ Fun fact **I solve the Rubik's Cube, play table tennis and practice Agility with my Dog Kira**.
 
