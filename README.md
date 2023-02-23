@@ -1,4 +1,4 @@
-[![Blog Badge](https://img.shields.io/badge/-datacuber.cl-red)](https://www.datacuber.cl)
+[![Blog Badge](https://img.shields.io/badge/blog-datacuber.cl-red)](https://www.datacuber.cl)
 <a href="https://www.linkedin.com/in/alfonso-tobar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 
 <h1 align="center">Hi 👋, I'm Alfonso and I'm a Data Scientist</h1>
