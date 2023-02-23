@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alfonso and I'm a Data Scientist</h1>
 <h3 align="center">I'm passionate about Machine Learning and Deep Learning.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8F3AB0&center=true&vCenter=true&width=477&lines=I'm+a+PhD+Student;I+like+to+code+in+Python;Love+Machine+and+Deep+Learning;Scikit-Learn+and+Pytorch+Lover;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8F3AB0&center=true&vCenter=true&width=477&lines=I'm+a+PhD+Student;I+like+to+code+in+Python;Love+Machine+and+Deep+Learning;Scikit-Learn+and+Pytorch+Lover;Open+Source+Contributor)](https://git.io/typing-svg)
 
 - 🔭 I’m currently pursuing my **Msc in Data Science**.
 
