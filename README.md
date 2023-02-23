@@ -1,5 +1,6 @@
 [![Blog Badge](https://img.shields.io/badge/blog-datacuber.cl-yellow)](https://www.datacuber.cl)
 [![Linkedin Badge](https://img.shields.io/badge/-alfonso--tobar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-tobar/ "Connect on LinkedIn")
+<a href="https://www.linkedin.com/in/alfonso-tobar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 
 <h1 align="center">Hi 👋, I'm Alfonso and I'm a Data Scientist</h1>
 <h3 align="center">I'm passionate about Machine Learning and Deep Learning.</h3>
