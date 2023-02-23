@@ -8,7 +8,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8F3AB0&center=true&vCenter=true&width=477&lines=I'm+a+PhD+Student;I+like+to+code+in+Python;Love+Machine+and+Deep+Learning;Scikit-Learn+and+Pytorch+Lover;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently pursuing my **Msc in Data Science**.
+- 🔭 I’m currently finishing my **Msc in Data Science** and pursuing my PhD.
 
 - 👨‍💻 All of my projects are available at [datacuber.cl](https://datacuber.cl/).
 
