@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [datacuber.cl](https://datacuber.cl/).
 
-- ⚡ Fun fact **I solve the Rubik's Cube, play table tennis and practice Agility with my Dog Kira**.
+- ⚡ Fun fact: **I solve the Rubik's Cube, play table tennis and practice Agility with my Dog Kira**.
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <p align="left">
